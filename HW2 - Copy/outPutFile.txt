@@ -1,0 +1,118 @@
+Name: Ericson Demo
+Assignment 2
+
+
+doubles start here///////////////////////////////////////////////////////////
+For 1000 iterations:
+  One half addition (double): 500
+  One half multiplication (double): 500
+  The difference (double): 0
+  One third addition (double): 333.33333333
+  One third multiplication (double): 333.33333333
+  The difference (double): 0
+
+For 10000 iterations:
+  One half addition (double): 5000
+  One half multiplication (double): 5000
+  The difference (double): 0
+  One third addition (double): 3333.33333333
+  One third multiplication (double): 3333.33333333
+  The difference (double): 0
+
+For 100000 iterations:
+  One half addition (double): 50000
+  One half multiplication (double): 50000
+  The difference (double): 0
+  One third addition (double): 33333.33333329
+  One third multiplication (double): 33333.33333333
+  The difference (double): 0.00000004
+
+For 1000000 iterations:
+  One half addition (double): 500000
+  One half multiplication (double): 500000
+  The difference (double): 0
+  One third addition (double): 333333.33333224
+  One third multiplication (double): 333333.33333333
+  The difference (double): 0.00000109
+
+For 10000000 iterations:
+  One half addition (double): 5000000
+  One half multiplication (double): 5000000
+  The difference (double): 0
+  One third addition (double): 3333333.33371366
+  One third multiplication (double): 3333333.33333333
+  The difference (double): 0.00038033
+
+For 100000000 iterations:
+  One half addition (double): 50000000
+  One half multiplication (double): 50000000
+  The difference (double): 0
+  One third addition (double): 33333333.28415699
+  One third multiplication (double): 33333333.33333333
+  The difference (double): 0.04917634
+
+For 1000000000 iterations:
+  One half addition (double): 500000000
+  One half multiplication (double): 500000000
+  The difference (double): 0
+  One third addition (double): 333333332.6651181
+  One third multiplication (double): 333333333.3333333
+  The difference (double): 0.66821522
+
+floats start here///////////////////////////////////////////////////////////
+For 1000 iterations:
+  One half addition (float): 500
+  One half multiplication (float): 500
+  The difference (float): 0
+  One third addition (float): 333.33410645
+  One third multiplication (float): 333.33334351
+  The difference (float): 0.00076294
+
+For 10000 iterations:
+  One half addition (float): 5000
+  One half multiplication (float): 5000
+  The difference (float): 0
+  One third addition (float): 3333.11938477
+  One third multiplication (float): 3333.33349609
+  The difference (float): 0.21411133
+
+For 100000 iterations:
+  One half addition (float): 50000
+  One half multiplication (float): 50000
+  The difference (float): 0
+  One third addition (float): 33356.5546875
+  One third multiplication (float): 33333.3359375
+  The difference (float): 23.21875
+
+For 1000000 iterations:
+  One half addition (float): 500000
+  One half multiplication (float): 500000
+  The difference (float): 0
+  One third addition (float): 333830.1875
+  One third multiplication (float): 333333.34375
+  The difference (float): 496.84375
+
+For 10000000 iterations:
+  One half addition (float): 5000000
+  One half multiplication (float): 5000000
+  The difference (float): 0
+  One third addition (float): 3090156.25
+  One third multiplication (float): 3333333.5
+  The difference (float): 243177.25
+
+For 100000000 iterations:
+  One half addition (float): 8388608
+  One half multiplication (float): 50000000
+  The difference (float): 41611392
+  One third addition (float): 8388608
+  One third multiplication (float): 33333334
+  The difference (float): 24944726
+
+For 1000000000 iterations:
+  One half addition (float): 8388608
+  One half multiplication (float): 500000000
+  The difference (float): 491611392
+  One third addition (float): 8388608
+  One third multiplication (float): 333333344
+  The difference (float): 324944736
+

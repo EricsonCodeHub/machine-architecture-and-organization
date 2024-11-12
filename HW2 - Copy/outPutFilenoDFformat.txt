@@ -1,0 +1,116 @@
+Ericson Demo
+Assignment 2
+doubles start here///////////////////////////////////////////////////////////
+For 1000 iterations:
+  One half addition (double): 500.0
+  One half multiplication (double): 500.0
+  The difference (double): 0.0
+  One third addition (double): 333.33333333333184
+  One third multiplication (double): 333.3333333333333
+  The difference (double): 1.4779288903810084E-12
+
+For 10000 iterations:
+  One half addition (double): 5000.0
+  One half multiplication (double): 5000.0
+  The difference (double): 0.0
+  One third addition (double): 3333.3333333337314
+  One third multiplication (double): 3333.333333333333
+  The difference (double): 3.9835867937654257E-10
+
+For 100000 iterations:
+  One half addition (double): 50000.0
+  One half multiplication (double): 50000.0
+  The difference (double): 0.0
+  One third addition (double): 33333.33333328976
+  One third multiplication (double): 33333.33333333333
+  The difference (double): 4.3568434193730354E-8
+
+For 1000000 iterations:
+  One half addition (double): 500000.0
+  One half multiplication (double): 500000.0
+  The difference (double): 0.0
+  One third addition (double): 333333.3333322413
+  One third multiplication (double): 333333.3333333333
+  The difference (double): 1.092033926397562E-6
+
+For 10000000 iterations:
+  One half addition (double): 5000000.0
+  One half multiplication (double): 5000000.0
+  The difference (double): 0.0
+  One third addition (double): 3333333.3337136623
+  One third multiplication (double): 3333333.333333333
+  The difference (double): 3.8032932206988335E-4
+
+For 100000000 iterations:
+  One half addition (double): 5.0E7
+  One half multiplication (double): 5.0E7
+  The difference (double): 0.0
+  One third addition (double): 3.333333328415699E7
+  One third multiplication (double): 3.3333333333333332E7
+  The difference (double): 0.04917634278535843
+
+For 1000000000 iterations:
+  One half addition (double): 5.0E8
+  One half multiplication (double): 5.0E8
+  The difference (double): 0.0
+  One third addition (double): 3.333333326651181E8
+  One third multiplication (double): 3.333333333333333E8
+  The difference (double): 0.6682152152061462
+
+floats start here///////////////////////////////////////////////////////////
+For 1000 iterations:
+  One half addition (float): 500.0
+  One half multiplication (float): 500.0
+  The difference (float): 0.0
+  One third addition (float): 333.3341
+  One third multiplication (float): 333.33334
+  The difference (float): 7.6293945E-4
+
+For 10000 iterations:
+  One half addition (float): 5000.0
+  One half multiplication (float): 5000.0
+  The difference (float): 0.0
+  One third addition (float): 3333.1194
+  One third multiplication (float): 3333.3335
+  The difference (float): 0.21411133
+
+For 100000 iterations:
+  One half addition (float): 50000.0
+  One half multiplication (float): 50000.0
+  The difference (float): 0.0
+  One third addition (float): 33356.555
+  One third multiplication (float): 33333.336
+  The difference (float): 23.21875
+
+For 1000000 iterations:
+  One half addition (float): 500000.0
+  One half multiplication (float): 500000.0
+  The difference (float): 0.0
+  One third addition (float): 333830.2
+  One third multiplication (float): 333333.34
+  The difference (float): 496.84375
+
+For 10000000 iterations:
+  One half addition (float): 5000000.0
+  One half multiplication (float): 5000000.0
+  The difference (float): 0.0
+  One third addition (float): 3090156.2
+  One third multiplication (float): 3333333.5
+  The difference (float): 243177.25
+
+For 100000000 iterations:
+  One half addition (float): 8388608.0
+  One half multiplication (float): 5.0E7
+  The difference (float): 4.1611392E7
+  One third addition (float): 8388608.0
+  One third multiplication (float): 3.3333334E7
+  The difference (float): 2.4944726E7
+
+For 1000000000 iterations:
+  One half addition (float): 8388608.0
+  One half multiplication (float): 5.0E8
+  The difference (float): 4.91611392E8
+  One third addition (float): 8388608.0
+  One third multiplication (float): 3.33333344E8
+  The difference (float): 3.24944736E8
+

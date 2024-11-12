@@ -1,0 +1,103 @@
+Name: Ericson Demo
+Assignment: 3
+
+byte: -48 short: 2000 int: 2000
+
+byte: -96 short: 4000 int: 4000
+
+byte: 112 short: 6000 int: 6000
+
+byte: 64 short: 8000 int: 8000
+
+byte: 16 short: 10000 int: 10000
+
+byte: -32 short: 12000 int: 12000
+
+byte: -80 short: 14000 int: 14000
+
+byte: -128 short: 16000 int: 16000
+
+byte: 80 short: 18000 int: 18000
+
+byte: 32 short: 20000 int: 20000
+
+byte: -16 short: 22000 int: 22000
+
+byte: -64 short: 24000 int: 24000
+
+byte: -112 short: 26000 int: 26000
+
+byte: 96 short: 28000 int: 28000
+
+byte: 48 short: 30000 int: 30000
+
+byte: 0 short: 32000 int: 32000
+
+byte: -48 short: -31536 int: 34000
+
+byte: -96 short: -29536 int: 36000
+
+byte: 112 short: -27536 int: 38000
+
+byte: 64 short: -25536 int: 40000
+
+byte: 16 short: -23536 int: 42000
+
+byte: -32 short: -21536 int: 44000
+
+byte: -80 short: -19536 int: 46000
+
+byte: -128 short: -17536 int: 48000
+
+byte: 80 short: -15536 int: 50000
+
+byte: 32 short: -13536 int: 52000
+
+byte: -16 short: -11536 int: 54000
+
+byte: -64 short: -9536 int: 56000
+
+byte: -112 short: -7536 int: 58000
+
+byte: 96 short: -5536 int: 60000
+
+byte: 48 short: -3536 int: 62000
+
+byte: 0 short: -1536 int: 64000
+
+byte: -48 short: 464 int: 66000
+
+byte: -96 short: 2464 int: 68000
+
+byte: 112 short: 4464 int: 70000
+
+byte: 64 short: 6464 int: 72000
+
+byte: 16 short: 8464 int: 74000
+
+byte: -32 short: 10464 int: 76000
+
+byte: -80 short: 12464 int: 78000
+
+byte: -128 short: 14464 int: 80000
+
+byte: 80 short: 16464 int: 82000
+
+byte: 32 short: 18464 int: 84000
+
+byte: -16 short: 20464 int: 86000
+
+byte: -64 short: 22464 int: 88000
+
+byte: -112 short: 24464 int: 90000
+
+byte: 96 short: 26464 int: 92000
+
+byte: 48 short: 28464 int: 94000
+
+byte: 0 short: 30464 int: 96000
+
+byte: -48 short: 32464 int: 98000
+
+byte: -96 short: -31072 int: 100000
+
